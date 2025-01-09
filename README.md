@@ -111,27 +111,27 @@
 - 接口源：
 
 ```bash
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/refs/heads/master/output/user_result.m3u
 ```
 
 ```bash
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/refs/heads/master/output/user_result.txt
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/output/user_result.m3u
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/output/user_result.txt
 ```
 
 - 数据源：
 
 ```bash
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/gd/source.json
 ```
 
 或
