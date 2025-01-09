@@ -152,6 +152,18 @@ https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/re
 https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/tvbox.json
 ```
 
+- TVBOX2源：
+
+```bash
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/refs/heads/master/tv.json
+```
+
+或
+
+```bash
+https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/tv.json
+```
+
 ## 配置
 
 | 配置项                    | 描述                                                                                                                                                    | 默认值               |
