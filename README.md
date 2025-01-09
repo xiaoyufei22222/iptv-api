@@ -131,13 +131,13 @@ https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/output/use
 - 数据源：
 
 ```bash
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/gd/source.json
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xiaoyufei22222/iptv-api/refs/heads/master/source.json
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
+https://cdn.jsdelivr.net/gh/xiaoyufei22222/iptv-api@refs/heads/master/source.json
 ```
 
 ## 配置
